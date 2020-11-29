@@ -7,7 +7,7 @@ Project	Idea:
 -In	addition,	an	alarm	is	fired	whenever	the	room	is	
 overcrowded and	the	door	is	closed	as	well.
 Components	used:
-- Push	button	:	When	it is	pressed,	the	system	starts.
+-Push	button	:	When	it is	pressed,	the	system	starts.
 - 2	LDRs	(photoresistors)	:	For	detecting	number	of	people	
 entering	and leaving	the	room.
 - Servo	motor	:	acts	as	a	gate	for	the	room.	Opens	whenever	
