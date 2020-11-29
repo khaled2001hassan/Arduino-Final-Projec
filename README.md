@@ -1,10 +1,10 @@
 Arduino	Final	Project	Documentation
 AKA	ELECTRONIC	GATE 					
-by KhaledHassan - Menna	Magdy
+-by KhaledHassan - Menna	Magdy
 Project	Idea:
-An	electronic	gate	that	keep	trace	of	the	count	of	entrees	
-and	detect	number	of	people	entering	or	exiting	the	place.	
-In	addition,	an	alarm	is	fired	whenever	the	room	is	
+-An	electronic	gate	that	keep	trace	of	the	count	of	entrees	
+-and	detect	number	of	people	entering	or	exiting	the	place.	
+-In	addition,	an	alarm	is	fired	whenever	the	room	is	
 overcrowded and	the	door	is	closed	as	well.
 Components	used:
 - Push	button	:	When	it is	pressed,	the	system	starts.
